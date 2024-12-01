@@ -1,0 +1,122 @@
+----------------------------------------------------
+Receipt generated on: 01-Dec-2024 14:45:26
+Bella Vita Ice Cream Parlor
+
+Order Details:
+
+Order No: 1
+Date: 01-Dec-2024 14:45:23
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+SMALL CONE with [Chocolate] and [Chocolate Chips] - $6.50 1          $5.00      $6.50     
+
+Gross Total: $6.50
+Service Charges: $0.33
+Net Total: $6.83
+
+
+----------------------------------------------------
+
+----------------------------------------------------
+Receipt generated on: 01-Dec-2024 14:46:12
+Bella Vita Ice Cream Parlor
+
+Order Details:
+
+Order No: 1
+Date: 01-Dec-2024 14:45:23
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+SMALL CONE with [Chocolate] and [Chocolate Chips] - $6.50 1          $5.00      $6.50     
+
+Gross Total: $6.50
+Service Charges: $0.33
+Net Total: $6.83
+
+Order No: 2
+Date: 01-Dec-2024 14:46:09
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+MEDIUM CUP with [Strawberry] and [Brownie Bites] - $7.50 1          $5.00      $7.50     
+
+Gross Total: $7.50
+Service Charges: $0.38
+Net Total: $7.88
+
+
+----------------------------------------------------
+
+----------------------------------------------------
+Receipt generated on: 01-Dec-2024 17:25:01
+Bella Vita Ice Cream Parlor
+
+Order Details:
+
+Order No: 1
+Date: 01-Dec-2024 17:24:59
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+LARGE CONE with [Chocolate] and [Chocolate Chips] - $9.00 1          $5.00      $9.00     
+
+Gross Total: $9.00
+Service Charges: $0.45
+Net Total: $9.45
+
+
+----------------------------------------------------
+
+----------------------------------------------------
+Receipt generated on: 01-Dec-2024 17:25:51
+Bella Vita Ice Cream Parlor
+
+Order Details:
+
+Order No: 1
+Date: 01-Dec-2024 17:24:59
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+LARGE CONE with [Chocolate] and [Chocolate Chips] - $9.00 1          $5.00      $9.00     
+
+Gross Total: $9.00
+Service Charges: $0.45
+Net Total: $9.45
+
+Order No: 2
+Date: 01-Dec-2024 17:25:48
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+SMALL CUP with [Strawberry] and [Chocolate Syrup] - $6.50 1          $5.00      $6.50     
+
+Gross Total: $6.50
+Service Charges: $0.33
+Net Total: $6.83
+
+
+----------------------------------------------------
+
+----------------------------------------------------
+Receipt generated on: 01-Dec-2024 20:42:11
+Bella Vita Ice Cream Parlor
+
+Order Details:
+
+Order No: 1
+Date: 01-Dec-2024 20:42:09
+
+Description          Qty        Price      Total     
+----------------------------------------------------
+LARGE CONE with [Vanilla] and [Sprinkles] - $9.00 1          $5.00      $9.00     
+
+Gross Total: $9.00
+Service Charges: $0.45
+Net Total: $9.45
+
+
+----------------------------------------------------
+
