@@ -35,67 +35,15 @@ abstract class IcecreamParlor {
     public abstract double calculatePrice();
 }
 
-class Icecream extends IcecreamParlor {
-    private List<Flavor> flavors;
-    private List<Topping> toppings;
 
-    public Icecream(List<Flavor> flavors, List<Topping> toppings, OptionType optionType, Size size, double basePrice) {
-        super("Custom Ice Cream", optionType, size, basePrice);
-        this.flavors = flavors;
-        this.toppings = toppings;
-    }
 
-    @Override
-    public double calculatePrice() {
-        double sizeMultiplier = switch (size) {
-            case LARGE -> 1.5;
-            case MEDIUM -> 1.2;
-            case SMALL -> 1.0;
-        };
-        double toppingPrice = toppings.stream().mapToDouble(Topping::getPrice).sum();
-        return (basePrice * sizeMultiplier) + toppingPrice;
-    }
-
-    public String getDetails() {
-        return size + " " + optionType + " with " + flavors + " and " + toppings + " - $" + String.format("%.2f", calculatePrice());
-    }
-}
-
-class Flavor {
-    private String name;
-
-    public Flavor(String name) {
-        this.name = name;
-    }
-
-    @Override
-    public String toString() {
-        return name;
-    }
-}
-
-class Topping {
-    private String name;
-    private double price;
-
-    public Topping(String name, double price) {
-        this.name = name;
-        this.price = price;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    @Override
-    public String toString() {
-        return name;
-    }
-}
+// Code added by nabeha
 
 enum OptionType {
     CONE, CUP;
 }
+
+
 
 enum Size {
     LARGE, MEDIUM, SMALL;
